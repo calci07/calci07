@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi there, I'm Gerald! 🚀
+👨‍💻 Developer | 🎨 3D Artist | 🌐 Tech Explorer
+I am a 3rd-year BSIT-MWA student at National University Manila, specializing in Mobile and Web Applications. I thrive on the challenge of building interactive systems and exploring the creative possibilities of 3D art. I am a dedicated problem solver who enjoys turning complex logic into clean, efficient code.
 
-<!--
-**calci07/calci07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beyond standard development, I am currently diving deep into the worlds of IoT and Blockchain to see how they can reshape our digital future.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My Tech Stack
+
+
+🎨 Frontend: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+
+📱 Mobile: Flutter, Java
+
+⚙️ Backend: Node.js, Express.js, Java, Java Swing
+
+📂 Database: MongoDB, MySQL, MSSQL
+
+🛠️ Others: C/C++ (IoT), 3D Art & Modeling
+
+🥋 Core Focus
+📚 Continuous Learning: Currently expanding my expertise in decentralized systems (Blockchain) and connected hardware (IoT).
+
+🎨 Creative Integration: Combining technical development with 3D design to create immersive user experiences.
+
+🧩 Problem Solving: Tackling architectural challenges and optimizing system logic.
+
+🤝 Let’s Connect!
+🌐 Portfolio: (https://gerald-bitago-portflio-sxwj0ttp4y.vercel.app/#orgs)
+
+💼 LinkedIn: [Gerald Bitago](https://www.linkedin.com/in/gerald-bitago-0ab95b340/)
