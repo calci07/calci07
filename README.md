@@ -1,4 +1,7 @@
 👋 Hi there, I'm Gerald! 🚀
+
+# (Currently working as a full stack SWE)
+
 👨‍💻 Developer | 🎨 3D Artist | 🌐 Tech Explorer
 I am a 3rd-year BSIT-MWA student at National University Manila, specializing in Mobile and Web Applications. I thrive on the challenge of building interactive systems and exploring the creative possibilities of 3D art. I am a dedicated problem solver who enjoys turning complex logic into clean, efficient code.
 
