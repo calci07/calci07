@@ -29,6 +29,6 @@ Beyond standard development, I am currently diving deep into the worlds of IoT a
 🧩 Problem Solving: Tackling architectural challenges and optimizing system logic.
 
 🤝 Let’s Connect!
-🌐 Portfolio: (https://gerald-bitago-portflio-sxwj0ttp4y.vercel.app/#orgs)
+🌐 Portfolio: https://ralddev.vercel.app
 
-💼 LinkedIn: [Gerald Bitago](https://www.linkedin.com/in/gerald-bitago-0ab95b340/)
+💼 LinkedIn: [Gerald Bitago](https://www.linkedin.com/in/gerald-bitago-0ab95b340)
