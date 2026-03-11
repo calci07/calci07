@@ -14,7 +14,7 @@
 <h1 align="center">Gerald Bitago</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-I am a Full-Stack Software Engineer with a passion for building high-performance web and mobile applications.I am experienced in shipping production-grade software across the full stack, maintaining a flexible approach to technology and a strong track record in real-time systems and third-party integrations. Currently, I work remotely in software development while pursuing a Bachelor of Science in Information Technology Mobile & Web Applications at National University Manila.
+I am a Full-Stack Software Engineer focused on building reliable web and mobile applications. My experience includes working on production-grade software with a focus on real-time systems and third-party integrations. Currently, I am balancing a remote development role while completing my Bachelor of Science in Information Technology at National University Manila, specializing in Mobile & Web Applications. I am always open to discussing new remote opportunities and would welcome the chance to connect if you are interested in collaborating.
 
 ---
 
