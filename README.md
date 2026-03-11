@@ -16,7 +16,7 @@
 <h1 align="center">Gerald Bitago</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-[cite_start]I am a Full-Stack Software Engineer with a passion for building high-performance web and mobile applications[cite: 5]. [cite_start]I am experienced in shipping production-grade software across the full stack, maintaining a flexible approach to technology and a strong track record in real-time systems and third-party integrations[cite: 6]. [cite_start]Currently, I work remotely in software development [cite: 9] [cite_start]while pursuing a Bachelor of Science in Information Technology Mobile & Web Applications at National University Manila[cite: 40].
+I am a Full-Stack Software Engineer with a passion for building high-performance web and mobile applications.I am experienced in shipping production-grade software across the full stack, maintaining a flexible approach to technology and a strong track record in real-time systems and third-party integrations. Currently, I work remotely in software development while pursuing a Bachelor of Science in Information Technology Mobile & Web Applications at National University Manila.
 
 ---
 
@@ -24,13 +24,13 @@
 
 My current professional work revolves around building robust, scalable applications with a focus on end-to-end type safety and real-time capabilities:
 
-* [cite_start]Building and maintaining full-stack web applications using Next.js with end-to-end type safety via tRPC and TypeScript[cite: 11].
-* [cite_start]Designing and managing relational database schemas with Drizzle ORM backed by Supabase (PostgreSQL), including row-level security and realtime subscriptions[cite: 12].
-* [cite_start]Integrating Pusher for real-time WebSocket features such as live notifications and collaborative updates across multiple production projects[cite: 13].
-* [cite_start]Implemented payment processing with Xendit (invoices, e-wallets, cards) and transactional emails using Resend[cite: 14].
-* [cite_start]Setting up authentication flows using NextAuth.js with OAuth providers and credential-based login, secured with session management[cite: 15].
-* [cite_start]Scheduling and managing background jobs with QStash (Upstash) for async task processing and delayed messaging[cite: 16].
-* [cite_start]Styling production UIs with Tailwind CSS and component libraries, maintaining consistent design systems across projects[cite: 17].
+* Building and maintaining full-stack web applications using Next.js with end-to-end type safety via tRPC and TypeScript.
+* Designing and managing relational database schemas with Drizzle ORM backed by Supabase (PostgreSQL), including row-level security and realtime subscriptions.
+* Integrating Pusher for real-time WebSocket features such as live notifications and collaborative updates across multiple production projects.
+* Implemented payment processing with Xendit (invoices, e-wallets, cards) and transactional emails using Resend.
+* Setting up authentication flows using NextAuth.js with OAuth providers and credential-based login, secured with session management.
+* Scheduling and managing background jobs with QStash (Upstash) for async task processing and delayed messaging.
+* Styling production UIs with Tailwind CSS and component libraries, maintaining consistent design systems across projects.
 
 ---
 
@@ -70,19 +70,19 @@ My current professional work revolves around building robust, scalable applicati
 
 ### Selected Projects
 
-[cite_start]**No-Code Website Builder** [cite: 24]
-* [cite_start]Built a full visual website builder where the entire process—template selection, drag-and-drop editing, and deployment—completes in minutes[cite: 25].
-* [cite_start]Integrated Pexels and Pixabay asset search, one-click Vercel deployment with real-time build log streaming, and clean dependency-free HTML/CSS export[cite: 27].
+**No-Code Website Builder**
+* Built a full visual website builder where the entire process—template selection, drag-and-drop editing, and deployment—completes in minutes[cite: 25].
+* Integrated Pexels and Pixabay asset search, one-click Vercel deployment with real-time build log streaming, and clean dependency-free HTML/CSS export[cite: 27].
 
-[cite_start]**Free Movie Streaming Platform** [cite: 28]
-* [cite_start]Built a streaming platform with curated categories and real-time TMDb-powered search[cite: 29].
-* [cite_start]Implemented a TV show episode selector and integrated video player for trailers and content[cite: 30].
+**Free Movie Streaming Platform** 
+* Built a streaming platform with curated categories and real-time TMDb-powered search.
+* Implemented a TV show episode selector and integrated video player for trailers and content.
 
 ---
 
 ### Key Achievements
 
-* [cite_start]1st Runner-Up - Arduino Day Hackathon (Nationwide) [cite: 19]
-* [cite_start]1st Runner-Up - Hiraya Ideathon, National University Manila [cite: 20]
-* [cite_start]Finalist - IoT Conference Philippines (Nationwide) [cite: 21]
-* [cite_start]Semi-Finalist - Hackada AI (Nationwide) [cite: 22]
+* 1st Runner-Up - Arduino Day Hackathon (Nationwide) 
+* 1st Runner-Up - Hiraya Ideathon, National University Manila 
+* Finalist - IoT Conference Philippines (Nationwide) 
+* Semi-Finalist - Hackada AI (Nationwide) 
