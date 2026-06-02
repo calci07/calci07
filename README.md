@@ -14,21 +14,48 @@
 <h1 align="center">Gerald Bitago</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-I am a Full-Stack Software Engineer focused on building reliable web and mobile applications. My experience includes working on production-grade software with a focus on real-time systems and third-party integrations. Currently, I am balancing a remote development role while completing my Bachelor of Science in Information Technology at National University Manila, specializing in Mobile & Web Applications. I am always open to discussing new remote opportunities and would welcome the chance to connect if you are interested in collaborating.
+I am a Full-Stack Software Engineer focused on building reliable web, commerce, and interactive product experiences. I currently work with **The Dome** in San Francisco, California, building production-grade software across full-stack applications, financial literacy products, Shopify commerce systems, backend automation, and third-party integrations. I am also completing my Bachelor of Science in Information Technology at National University Manila, specializing in Mobile & Web Applications.
+
+---
+
+### Work Experience
+
+#### The Dome — Full-Stack Software Engineer
+**San Francisco, California | Mar 2026 - Present**
+
+* Building production web and commerce systems across startup-style projects, from polished frontend experiences to backend automation and third-party integrations.
+* Shipping full-stack features with Next.js, React, TypeScript, Supabase, Stripe, Shopify Liquid, JavaScript, and API-driven workflows.
+* Translating product ideas into working systems: authentication, payments, quote funnels, customer notifications, admin surfaces, learning flows, and responsive UI.
+
+#### BHUMBLE — Financial Literacy / Bitcoin Education Startup
+**San Francisco, California | Apr 2026 - Present**
+
+* Built a Next.js financial literacy platform introducing users to money systems, Bitcoin, and Web3 through gamified lessons and interactive missions.
+* Implemented Supabase-backed member accounts, Google OAuth, progress tracking, XP, ranks, leaderboards, Satoshi rewards, and authenticated account dashboards.
+* Integrated Stripe Checkout, Stripe webhooks, Printful merch fulfillment, transactional email, protected API routes, and security-focused request handling.
+* Created immersive UI systems with React, Tailwind CSS, Framer Motion, GSAP, Lenis, OGL, Three.js, Lottie, and custom WebGL shader effects.
+
+#### Shopify / Xtreme Canopies — Commerce Engineering
+**Remote | 2026**
+
+* Customized Shopify Liquid sections for an off-road truck canopy storefront, including product pages, collection surfaces, navigation, cart, search, and mobile interactions.
+* Developed a truck compatibility finder for make, model, year, and bed-size matching, routing shoppers into filtered product discovery flows.
+* Built a custom modular canopy product experience with responsive galleries, configuration options, trust badges, quote CTAs, and polished mobile modal behavior.
+* Migrated quote submissions to a Supabase Edge Function with validation, Turnstile checks, rate limiting, database persistence, Resend email delivery, and customer/admin notifications.
 
 ---
 
 ### Engineering Focus & Architecture
 
-My current professional work revolves around building robust, scalable applications with a focus on end-to-end type safety and real-time capabilities:
+My current professional work revolves around building robust, scalable applications with a focus on product quality, secure integrations, and real-time capabilities:
 
-* Building and maintaining full-stack web applications using Next.js with end-to-end type safety via tRPC and TypeScript.
-* Designing and managing relational database schemas with Drizzle ORM backed by Supabase (PostgreSQL), including row-level security and realtime subscriptions.
-* Integrating Pusher for real-time WebSocket features such as live notifications and collaborative updates across multiple production projects.
-* Implemented payment processing with Xendit (invoices, e-wallets, cards) and transactional emails using Resend.
-* Setting up authentication flows using NextAuth.js with OAuth providers and credential-based login, secured with session management.
-* Scheduling and managing background jobs with QStash (Upstash) for async task processing and delayed messaging.
-* Styling production UIs with Tailwind CSS and component libraries, maintaining consistent design systems across projects.
+* Building and maintaining full-stack web applications using Next.js, React, TypeScript, and API-driven backend workflows.
+* Designing and managing relational database schemas with Supabase (PostgreSQL), including authentication, row-level security, realtime subscriptions, and protected server-side operations.
+* Implementing payment and commerce flows using Stripe Checkout, Shopify Liquid, Printful fulfillment, Xendit, and transactional email providers such as Resend.
+* Setting up authentication flows using Supabase Auth, NextAuth.js, OAuth providers, credential-based login, and secure session management.
+* Developing real-time and async workflows with Pusher, QStash, background jobs, webhook handlers, and serverless functions.
+* Styling production UIs with Tailwind CSS, component libraries, CSS Modules, motion systems, and consistent design foundations.
+* Creating interactive frontend experiences with WebGL, Three.js, GSAP, Framer Motion, Lenis, Lottie, and custom visual effects.
 
 ---
 
@@ -59,6 +86,11 @@ My current professional work revolves around building robust, scalable applicati
   <img src="https://img.shields.io/badge/Supabase_(PostgreSQL)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=1E1E1E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
 
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Printful-111111?style=for-the-badge&logoColor=white" alt="Printful" />
+
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logoColor=white" alt="NextAuth.js" />
@@ -75,6 +107,16 @@ My current professional work revolves around building robust, scalable applicati
 
 ### Selected Projects
 
+#### BHUMBLE: Financial Literacy and Bitcoin Learning Platform
+* Built a startup-grade education platform for money, Bitcoin, and Web3 literacy with gamified learning paths, interactive missions, flashcards, quizzes, boss battles, and progress dashboards.
+* Connected Supabase Auth/PostgreSQL, Stripe Checkout, Printful fulfillment, crypto market data, transactional email, protected routes, and admin workflows.
+* Designed immersive frontend sections using motion systems, generated visual assets, WebGL-inspired effects, and responsive product storytelling.
+
+#### Xtreme Canopies: Shopify Commerce System
+* Customized a Shopify storefront for off-road truck accessories and modular canopies using Liquid, CSS, JavaScript, Supabase Edge Functions, and Resend.
+* Built compatibility filtering, custom quote capture, responsive product galleries, cart/search improvements, and email automation for sales operations.
+* Improved mobile product discovery and quote flows for shoppers selecting truck make, model, year, bed size, and canopy configurations.
+
 #### FlowState: No-Code Website Builder
 [![FlowState Live Demo](https://img.shields.io/badge/FlowState_--_Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://flowstate-builder.vercel.app/)
 * Built a full visual website builder where template selection, drag-and-drop editing, and deployment complete in minutes.
@@ -87,13 +129,13 @@ My current professional work revolves around building robust, scalable applicati
 
 #### Tadhana: Interactive Tarot Reader
 [![Tadhana Live Demo](https://img.shields.io/badge/Tadhana_--_Live-00E676?style=for-the-badge&logo=vercel&logoColor=black)](https://tadhana-tarot.vercel.app/)
-* Developed an immersive application featuring stunning WebGL-based effects, including a central Light Pillar and dynamic Aurora backgrounds.
-* Built interactive deck shuffling, sequential card reveals, and a built-in AI interpreter (Nessy System Analyzer) that synthesizes spreads into comprehensive markdown summaries.
+* Developed an immersive application featuring WebGL-based effects, including a central Light Pillar and dynamic Aurora backgrounds.
+* Built interactive deck shuffling, sequential card reveals, and a built-in AI interpreter that synthesizes spreads into comprehensive markdown summaries.
 
 #### Birds VS Hunters: 3D Android Game
 [![Birds VS Hunters View Game](https://img.shields.io/badge/Birds_VS_Hunters_--_Download_Only-7A9A7A?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17nF09zSbZ2cg-ztuVpozqVPe3B4VUZpC/view?usp=sharing)
 * Engineered a custom OpenGL 3D rendering pipeline and game engine entirely from scratch using pure Java and Android NDK bindings, bypassing third-party frameworks.
-* Implemented highly optimized mobile mechanics handling physics, rendering, audio, and entity management with efficient draw calls and custom Blender assets.
+* Implemented optimized mobile mechanics handling physics, rendering, audio, and entity management with efficient draw calls and custom Blender assets.
 
 #### AI Color Palette Generator
 [![AI Color Palette Generator Live Demo](https://img.shields.io/badge/AI_Color_Palette_Generator_--_Live-FFD700?style=for-the-badge&logo=render&logoColor=black)](https://aicolorpalettegenerator.onrender.com/)
