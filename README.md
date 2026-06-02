@@ -14,6 +14,14 @@
 <h1 align="center">Gerald Bitago</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I+build+full-stack+products;Next.js+%2B+Supabase+%2B+Shopify+Commerce;Financial+Literacy+%2B+Bitcoin+Education;WebGL+%2B+3D+Interactive+Experiences" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:06b6d4&text=Building%20software%20that%20feels%20alive&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Full-stack%20engineering%20%7C%20Commerce%20systems%20%7C%20Interactive%20web%20experiences&descAlignY=58&descSize=15" alt="Gerald Bitago banner" />
+</p>
+
 I am a Full-Stack Software Engineer focused on building reliable web, commerce, and interactive product experiences. I currently work with **The Dome** in San Francisco, California, building production-grade software across full-stack applications, financial literacy products, Shopify commerce systems, backend automation, and third-party integrations. I am also completing my Bachelor of Science in Information Technology at National University Manila, specializing in Mobile & Web Applications.
 
 ---
@@ -59,48 +67,79 @@ My current professional work revolves around building robust, scalable applicati
 
 ---
 
-### Languages and Tools
+### Tech Stack
 
+#### Languages
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### Frontend
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shopify_Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Liquid" />
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
+#### Backend, Database & Commerce
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/tRPC-2596B6?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-
+  <img src="https://img.shields.io/badge/Supabase_(PostgreSQL)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=1E1E1E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/Supabase_(PostgreSQL)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=1E1E1E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
-
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/Printful-111111?style=for-the-badge&logoColor=white" alt="Printful" />
-
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logoColor=white" alt="NextAuth.js" />
   <img src="https://img.shields.io/badge/Xendit-1A56F0?style=for-the-badge&logoColor=white" alt="Xendit" />
+</p>
+
+#### Tools & Interactive Systems
+<p>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logoColor=white" alt="NextAuth.js" />
   <img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white" alt="Pusher" />
   <img src="https://img.shields.io/badge/QStash-00E9A3?style=for-the-badge&logoColor=black" alt="QStash" />
   <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=calci07&theme=tokyo-night&hide_border=true&area=true&custom_title=Gerald%20Bitago%27s%20Contribution%20Graph" alt="Gerald Bitago contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calci07&theme=tokyonight" alt="Gerald Bitago profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=calci07&show_icons=true&theme=tokyonight&hide_border=true" alt="Gerald Bitago GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calci07&layout=compact&theme=tokyonight&hide_border=true" alt="Gerald Bitago top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=calci07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Gerald Bitago GitHub trophies" />
 </p>
 
 ---
