@@ -18,10 +18,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I+build+full-stack+products;Next.js+%2B+Supabase+%2B+Shopify+Commerce;Financial+Literacy+%2B+Bitcoin+Education;WebGL+%2B+3D+Interactive+Experiences" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:06b6d4&text=Building%20software%20that%20feels%20alive&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Full-stack%20engineering%20%7C%20Commerce%20systems%20%7C%20Interactive%20web%20experiences&descAlignY=58&descSize=15" alt="Gerald Bitago banner" />
-</p>
-
 I am a Full-Stack Software Engineer focused on building reliable web, commerce, and interactive product experiences. I currently work with **The Dome** in San Francisco, California, building production-grade software across full-stack applications, financial literacy products, Shopify commerce systems, backend automation, and third-party integrations. I am also completing my Bachelor of Science in Information Technology at National University Manila, specializing in Mobile & Web Applications.
 
 ---
@@ -125,22 +121,29 @@ My current professional work revolves around building robust, scalable applicati
 
 ### GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=calci07&theme=tokyo-night&hide_border=true&area=true&custom_title=Gerald%20Bitago%27s%20Contribution%20Graph" alt="Gerald Bitago contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calci07&theme=tokyonight" alt="Gerald Bitago profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calci07&show_icons=true&theme=tokyonight&hide_border=true" alt="Gerald Bitago GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calci07&layout=compact&theme=tokyonight&hide_border=true" alt="Gerald Bitago top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=calci07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Gerald Bitago GitHub trophies" />
-</p>
+<table>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=calci07&theme=tokyo-night&hide_border=true&area=true&custom_title=Gerald%20Bitago%27s%20Contribution%20Graph" alt="Gerald Bitago contribution graph" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=calci07&theme=tokyonight" alt="GitHub stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=calci07&theme=tokyonight&utcOffset=8" alt="Productive time" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calci07&theme=tokyonight" alt="Repos per language" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=calci07&theme=tokyonight" alt="Most commit language" />
+    </td>
+  </tr>
+</table>
 
 ---
 
