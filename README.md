@@ -18,6 +18,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I+build+full-stack+products;Next.js+%2B+Supabase+%2B+Shopify+Commerce;Financial+Literacy+%2B+Bitcoin+Education;WebGL+%2B+3D+Interactive+Experiences" alt="Typing animation" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b67b134f-d988-4807-b61e-666b779a321b" alt="Financial Literacy and Bitcoin Education banner" />
+</p>
+
 I am a Full-Stack Software Engineer focused on building reliable web, commerce, and interactive product experiences. I currently work with **The Dome** in San Francisco, California, building production-grade software across full-stack applications, financial literacy products, Shopify commerce systems, backend automation, and third-party integrations. I am also completing my Bachelor of Science in Information Technology at National University Manila, specializing in Mobile & Web Applications.
 
 ---
