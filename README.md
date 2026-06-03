@@ -26,44 +26,30 @@ I am a Full-Stack Software Engineer focused on building reliable web, commerce, 
 
 ### Work Experience
 
-#### The Dome — Full-Stack Software Engineer
-**San Francisco, California | Mar 2026 - Present**
+####The Dome - Full-Stack Software Engineer
+San Francisco, California | Mar 2026 - Present
 
-* Building production web and commerce systems across startup-style projects, from polished frontend experiences to backend automation and third-party integrations.
-* Shipping full-stack features with Next.js, React, TypeScript, Supabase, Stripe, Shopify Liquid, JavaScript, and API-driven workflows.
-* Translating product ideas into working systems: authentication, payments, quote funnels, customer notifications, admin surfaces, learning flows, and responsive UI.
+Leading full-stack development across product features, owning frontend interfaces, backend workflows, database integration, API design, and third-party service connections.
+Building production-ready applications across different technology stacks, adapting quickly to project requirements and shipping reliable, user-focused software.
+Translating product requirements into complete implementations: authentication, payments, quote flows, admin surfaces, customer notifications, responsive UI, and secure backend logic.
 
-#### BHUMBLE — Financial Literacy / Bitcoin Education Startup
-**San Francisco, California | Apr 2026 - Present**
+####B HUMBLE - Full-Stack Software Engineer / Financial Literacy Startup
+San Francisco, California | Apr 2026 - Present
 
-* Built a Next.js financial literacy platform introducing users to money systems, Bitcoin, and Web3 through gamified lessons and interactive missions.
-* Implemented Supabase-backed member accounts, Google OAuth, progress tracking, XP, ranks, leaderboards, Satoshi rewards, and authenticated account dashboards.
-* Integrated Stripe Checkout, Stripe webhooks, Printful merch fulfillment, transactional email, protected API routes, and security-focused request handling.
-* Created immersive UI systems with React, Tailwind CSS, Framer Motion, GSAP, Lenis, OGL, Three.js, Lottie, and custom WebGL shader effects.
+Built a Next.js financial literacy platform introducing users to money systems, Bitcoin, and Web3 through gamified lessons, missions, quizzes, boss battles, and progress dashboards.
+Implemented Supabase-backed member accounts, Google OAuth, lesson progress tracking, XP, ranks, leaderboards, Satoshi rewards, and authenticated account surfaces.
+Integrated Stripe Checkout, Stripe webhooks, Printful merch fulfillment, transactional email, protected API routes, security helpers, crypto market data, and custom WebGL UI effects.
 
-#### Shopify / Xtreme Canopies — Commerce Engineering
-**Remote | 2026**
+####MRDN Auctions - Full-Stack Software Engineer / Luxury Watch Bidding System
+Germany | Jan 2026 - Feb 2026
 
-* Customized Shopify Liquid sections for an off-road truck canopy storefront, including product pages, collection surfaces, navigation, cart, search, and mobile interactions.
-* Developed a truck compatibility finder for make, model, year, and bed-size matching, routing shoppers into filtered product discovery flows.
-* Built a custom modular canopy product experience with responsive galleries, configuration options, trust badges, quote CTAs, and polished mobile modal behavior.
-* Migrated quote submissions to a Supabase Edge Function with validation, Turnstile checks, rate limiting, database persistence, Resend email delivery, and customer/admin notifications.
+Built and maintained full-stack bidding applications using Next.js, tRPC, TypeScript, Supabase PostgreSQL, Drizzle ORM, Tailwind CSS, and component libraries.
+Designed relational schemas with row-level security and realtime subscriptions, supporting secure auction workflows, live notifications, and collaborative updates.
+Integrated Pusher WebSockets, Xendit payments, Resend transactional email, NextAuth.js authentication, OAuth, credential login, session management, and QStash background jobs.
 
 ---
 
-### Engineering Focus & Architecture
 
-My current professional work revolves around building robust, scalable applications with a focus on product quality, secure integrations, and real-time capabilities:
-
-* Building and maintaining full-stack web applications using Next.js, React, TypeScript, and API-driven backend workflows.
-* Designing and managing relational database schemas with Supabase (PostgreSQL), including authentication, row-level security, realtime subscriptions, and protected server-side operations.
-* Implementing payment and commerce flows using Stripe Checkout, Shopify Liquid, Printful fulfillment, Xendit, and transactional email providers such as Resend.
-* Setting up authentication flows using Supabase Auth, NextAuth.js, OAuth providers, credential-based login, and secure session management.
-* Developing real-time and async workflows with Pusher, QStash, background jobs, webhook handlers, and serverless functions.
-* Styling production UIs with Tailwind CSS, component libraries, CSS Modules, motion systems, and consistent design foundations.
-* Creating interactive frontend experiences with WebGL, Three.js, GSAP, Framer Motion, Lenis, Lottie, and custom visual effects.
-
----
 
 ### Tech Stack
 
@@ -150,16 +136,6 @@ My current professional work revolves around building robust, scalable applicati
 ---
 
 ### Selected Projects
-
-#### BHUMBLE: Financial Literacy and Bitcoin Learning Platform
-* Built a startup-grade education platform for money, Bitcoin, and Web3 literacy with gamified learning paths, interactive missions, flashcards, quizzes, boss battles, and progress dashboards.
-* Connected Supabase Auth/PostgreSQL, Stripe Checkout, Printful fulfillment, crypto market data, transactional email, protected routes, and admin workflows.
-* Designed immersive frontend sections using motion systems, generated visual assets, WebGL-inspired effects, and responsive product storytelling.
-
-#### Xtreme Canopies: Shopify Commerce System
-* Customized a Shopify storefront for off-road truck accessories and modular canopies using Liquid, CSS, JavaScript, Supabase Edge Functions, and Resend.
-* Built compatibility filtering, custom quote capture, responsive product galleries, cart/search improvements, and email automation for sales operations.
-* Improved mobile product discovery and quote flows for shoppers selecting truck make, model, year, bed size, and canopy configurations.
 
 #### FlowState: No-Code Website Builder
 [![FlowState Live Demo](https://img.shields.io/badge/FlowState_--_Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://flowstate-builder.vercel.app/)
