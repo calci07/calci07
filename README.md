@@ -26,21 +26,21 @@ I am a Full-Stack Software Engineer focused on building reliable web, commerce, 
 
 ### Work Experience
 
-####The Dome - Full-Stack Software Engineer
+#### The Dome - Full-Stack Software Engineer
 San Francisco, California | Mar 2026 - Present
 
 Leading full-stack development across product features, owning frontend interfaces, backend workflows, database integration, API design, and third-party service connections.
 Building production-ready applications across different technology stacks, adapting quickly to project requirements and shipping reliable, user-focused software.
 Translating product requirements into complete implementations: authentication, payments, quote flows, admin surfaces, customer notifications, responsive UI, and secure backend logic.
 
-####B HUMBLE - Full-Stack Software Engineer / Financial Literacy Startup
+#### B HUMBLE - Full-Stack Software Engineer / Financial Literacy Startup
 San Francisco, California | Apr 2026 - Present
 
 Built a Next.js financial literacy platform introducing users to money systems, Bitcoin, and Web3 through gamified lessons, missions, quizzes, boss battles, and progress dashboards.
 Implemented Supabase-backed member accounts, Google OAuth, lesson progress tracking, XP, ranks, leaderboards, Satoshi rewards, and authenticated account surfaces.
 Integrated Stripe Checkout, Stripe webhooks, Printful merch fulfillment, transactional email, protected API routes, security helpers, crypto market data, and custom WebGL UI effects.
 
-####MRDN Auctions - Full-Stack Software Engineer / Luxury Watch Bidding System
+#### MRDN Auctions - Full-Stack Software Engineer / Luxury Watch Bidding System
 Germany | Jan 2026 - Feb 2026
 
 Built and maintained full-stack bidding applications using Next.js, tRPC, TypeScript, Supabase PostgreSQL, Drizzle ORM, Tailwind CSS, and component libraries.
