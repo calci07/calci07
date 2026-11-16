@@ -49,7 +49,7 @@ Integrated Pusher WebSockets, Xendit payments, Resend transactional email, NextA
 
 
 #### Freelance Software Engineer
-Remote | 2020 - Present
+Remote | 2022 - Present
 
 Built and maintained full-stack web applications, interactive product experiences, and client-focused software systems across multiple technology stacks. Worked across frontend interfaces, backend workflows, databases, authentication, payments, realtime features, automation, and deployment. Delivered responsive, production-ready solutions using tools such as Next.js, React, TypeScript, Supabase, PostgreSQL, Node.js, Tailwind CSS, Shopify Liquid, Stripe, Resend, Pusher, and WebGL.
 
