@@ -20,7 +20,7 @@
   <img src="https://github.com/user-attachments/assets/b67b134f-d988-4807-b61e-666b779a321b" alt="Financial Literacy and Bitcoin Education banner" />
 </p>
 
-I am a Full-Stack Software Engineer focused on building reliable web, commerce, and interactive product experiences. I currently work with **The Dome** in San Francisco, California, building production-grade software across full-stack applications, financial literacy products, Shopify commerce systems, backend automation, and third-party integrations. I am also completing my Bachelor of Science in Information Technology at National University Manila, specializing in Mobile & Web Applications.
+I am a Full-Stack Software Engineer focused on building reliable web, commerce, and interactive product experiences. I am currently a Software Engineer Intern at the Department of Science and Technology – Advanced Science and Technology Institute (DOST-ASTI), where I contribute to software development projects. I am also completing my Bachelor of Science in Information Technology at National University Manila, specializing in Mobile & Web Applications.
 
 ---
 
@@ -54,8 +54,6 @@ Remote | 2020 - Present
 Built and maintained full-stack web applications, interactive product experiences, and client-focused software systems across multiple technology stacks. Worked across frontend interfaces, backend workflows, databases, authentication, payments, realtime features, automation, and deployment. Delivered responsive, production-ready solutions using tools such as Next.js, React, TypeScript, Supabase, PostgreSQL, Node.js, Tailwind CSS, Shopify Liquid, Stripe, Resend, Pusher, and WebGL.
 
 ---
-
-
 
 ### Tech Stack
 
@@ -142,6 +140,38 @@ Built and maintained full-stack web applications, interactive product experience
 ---
 
 ### Selected Projects
+
+#### Xtreme Canopies: Shopify Website & Custom Quote Experience
+[![Xtreme Canopies Live Project](https://img.shields.io/badge/Xtreme_Canopies_--_Live-2E8B57?style=for-the-badge&logo=shopify&logoColor=white)](https://xtremecanopies.com/products/custom-modular-canopy)
+* Built and maintained the Shopify website, including rebuilding the Custom Modular Canopy page as an interactive product configuration and quotation flow.
+* Rerouted the existing automated email function and created a Supabase database from scratch to store customer and quotation information for the marketing team.
+
+#### BHUMBLE: Financial Literacy & Web3 Learning Platform
+[![BHUMBLE Live Project](https://img.shields.io/badge/BHUMBLE_--_Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bhumble.io/)
+* Built the platform from the ground up, including the frontend, database, authentication and authorization, lessons, and payment integrations.
+* Developed an e-learning experience introducing users to financial literacy, Bitcoin, and Web3.
+
+#### MRDN Auctions: Real-Time Luxury Watch Marketplace
+[![MRDN Auctions Live Project](https://img.shields.io/badge/MRDN_Auctions_--_Live-1A56F0?style=for-the-badge&logo=vercel&logoColor=white)](https://www.meridianauctions.com/)
+* Took over the existing production platform after the owner changed developers and helped make it production-ready.
+* Integrated Xendit payments, stabilized real-time bidding, and ensured auction winners, payment status, and transaction records were saved correctly.
+
+#### Hair Health Institute: WooCommerce Funnel & Analytics
+[![Hair Health Institute Live Project](https://img.shields.io/badge/Hair_Health_Institute_--_Live-6B7280?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.hairhealth.org/reverse-hair-loss)
+* Delivered a production WordPress/WooCommerce funnel with secure attribution and analytics integrations.
+
+#### Mommy AR Cakes: Custom Website
+[![Mommy AR Cakes Live Project](https://img.shields.io/badge/Mommy_AR_Cakes_--_Live-D97706?style=for-the-badge&logo=vercel&logoColor=white)](https://mommyarcakes.vercel.app/)
+* Built a custom website for the cake business.
+
+#### The Dome: Company Website & CMS Rebuild
+[![The Dome Website Preview](https://img.shields.io/badge/The_Dome_--_Preview-64748B?style=for-the-badge&logo=vercel&logoColor=white)](https://the-dome-marketing.vercel.app/)
+* Worked on a company website rebuild with a CMS.
+* This is an unfinished preview; the project was discontinued before launch.
+
+---
+
+### Projects for Fun
 
 #### FlowState: No-Code Website Builder
 [![FlowState Live Demo](https://img.shields.io/badge/FlowState_--_Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://flowstate-builder.vercel.app/)
