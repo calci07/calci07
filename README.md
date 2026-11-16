@@ -147,7 +147,7 @@ Built and maintained full-stack web applications, interactive product experience
 * Rerouted the existing automated email function and created a Supabase database from scratch to store customer and quotation information for the marketing team.
 
 #### BHUMBLE: Financial Literacy & Web3 Learning Platform
-[![BHUMBLE Live Project](https://img.shields.io/badge/BHUMBLE_--_Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bhumble.io/)
+[![BHUMBLE Live Project](https://img.shields.io/badge/BHUMBLE_--_Live-8A6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bhumble.io/)
 * Built the platform from the ground up, including the frontend, database, authentication and authorization, lessons, and payment integrations.
 * Developed an e-learning experience introducing users to financial literacy, Bitcoin, and Web3.
 
